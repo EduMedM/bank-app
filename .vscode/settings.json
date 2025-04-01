@@ -1,0 +1,21 @@
+{
+  "emmet.includeLanguages": {
+    "django-html": "html"
+  },
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "test",
+      "database": "airbnb",
+      "username": "root",
+      "password": "-6M6y2S1Q9L$"
+    }
+  ]
+}
